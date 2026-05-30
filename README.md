@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,linux)](https://skillicons.dev)
 
