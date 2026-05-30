@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.linkedin.com/in/ivan-mikholap-10428134a/"><img src="https://mdicons.readme.app/icons/?name=linkedin&size=32" width="32"></a>
+<a href="https://stackoverflow.com/users/32735249/ivan-mikholap"><img src="https://mdicons.readme.app/icons/?name=stackoverflow&size=32" width="32"></a>
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,linux)](https://skillicons.dev)
