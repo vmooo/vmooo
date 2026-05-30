@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/ivan-mikholap-10428134a/"><img src="https://mdicons.readme.app/icons/?name=linkedin&size=32" width="32"></a>
-<a href="https://stackoverflow.com/users/32735249/ivan-mikholap"><img src="https://mdicons.readme.app/icons/?name=stackoverflow&size=32" width="32"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mikholap-10428134a/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32735249/ivan-mikholap)
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,linux,git)](https://skillicons.dev)
 
