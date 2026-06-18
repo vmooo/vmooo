@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,linux,git)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmooo&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmooo&size_weight=0.5&count_weight=0.5&theme=dracula&layout=donut)
 
