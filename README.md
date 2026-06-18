@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmooo&size_weight=0.5&count_weight=0.5&theme=dracula&layout=donut)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmooo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
