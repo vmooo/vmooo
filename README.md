@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,linux,git)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmooo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vmooo)](https://github.com/stats-organization/github-stats-extended)
