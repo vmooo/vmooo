@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mikholap-10428134a/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32735249/ivan-mikholap)
 
-### Skills
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,linux,git)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vmooo&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
