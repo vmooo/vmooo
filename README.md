@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vmooo&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vmooo&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=vmooo&langs_count=6&theme=dracula&hide=javascript,html,css)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vmooo&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=vmooo&langs_count=6&theme=dracula&hide=html,css)
